@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>se.nackademin.java20</groupId>
-	<artifactId>lab3-risk-service</artifactId>
+	<artifactId>lab4-risk-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lab3-risk-service</name>
 	<description>sample app for risk score service</description>
